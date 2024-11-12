@@ -1,0 +1,60 @@
+#container {
+    padding: 0;
+}
+
+header {
+    padding: 10px 0;
+}
+
+.logo {
+    height: 50px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+nav {
+    text-align: center;
+    background-color: #ff0000;
+    padding: 10px 0;
+}
+
+.nav-link {
+    margin: 15px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.section-flex {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+
+.image-flex {
+    width: 45%;
+}
+
+.section-standard {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.section-image {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.img-container {
+    width: 30%;
+    text-align: center;
+}
+
+.button-main {
+    background-color: #e50000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
