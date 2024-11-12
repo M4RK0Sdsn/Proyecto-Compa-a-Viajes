@@ -28,8 +28,7 @@ Desarrollar este proyecto me permitió:
 ## 🏁 Pasos para Ejecutar el Proyecto
 1. Descarga o clona el repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador.
-3. Verás una página con varios destinos turísticos, cada uno con un botón de compra.
-4. Al hacer clic en un botón de compra, el sistema simula la adquisición del viaje, mostrando un mensaje de confirmación.
+3. Verás una página con varios destinos turísticos, cada uno con un botón de compra(el cual no tiene función añadida es meramente estético).
 
 ## 💡 Mejoras Futuras
 - **Integración de un sistema real de compras**: Se podría conectar con una API para hacer que la compra de los viajes sea funcional.
